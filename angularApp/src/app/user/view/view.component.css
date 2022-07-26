@@ -1,0 +1,19 @@
+/* Structure */
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  img{
+    width:60px;
+    height:60px;
+  }
+td{
+border-bottom: 2px solid rgb(30, 2, 215);
+border-top:2px solid rgb(30, 2, 215); ;
+
+  }
+ 

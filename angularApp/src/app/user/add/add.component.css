@@ -1,0 +1,13 @@
+mat-card{
+    width: 325px;
+    margin: 0 auto;
+    border: 2px solid rgb(75, 4, 230)
+}
+mat-card-title{
+    text-align: center;
+    font-size: 16px;
+    
+}
+form >* {
+    width: 100%;
+}
