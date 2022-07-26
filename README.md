@@ -8,4 +8,4 @@
 <li>Multer</li>
 </ul>
 
-<img src="sample.png" alt="project image" width="700" height="600">
+<img src="https://github.com/gauravkulwal/meanstack-file-upload/blob/main/sampl.png" alt="project image" width="700" height="600">
